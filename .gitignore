@@ -1,0 +1,9 @@
+
+.venv/
+venv/
+.env
+outputs/*
+!outputs/.gitkeep
+
+CIFAR10/
+

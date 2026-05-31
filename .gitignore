@@ -1,9 +1,6 @@
+# Tout ignorer par défaut
+*
 
-.venv/
-venv/
-.env
-outputs/*
-!outputs/.gitkeep
-
-CIFAR10/
-
+# Ne garder que les notebooks et ce fichier
+!.gitignore
+!*.ipynb
